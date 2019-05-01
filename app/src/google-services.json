@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173566776892",
+    "firebase_url": "https://database-fc1e8.firebaseio.com",
+    "project_id": "database-fc1e8",
+    "storage_bucket": "database-fc1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173566776892:android:aa010f27f1596781",
+        "android_client_info": {
+          "package_name": "com.example.yasmine.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173566776892-m6if4acrlrdaj6k305pc1f99rsd9mfhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZj_TWq0apscDQK2VnR_Uhbefd4Td-H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173566776892-m6if4acrlrdaj6k305pc1f99rsd9mfhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
